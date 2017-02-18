@@ -1,2 +1,2 @@
-# osx_mac_address_changer
-change your mac address randomly and automatically 
+# OSX MAC Address Changer
+Change your mac address randomly and automatically, it will auto save your original mac address into your user profile. Works for both wirless and ethernet connection.
